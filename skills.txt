@@ -1,0 +1,4 @@
+skills:
+soft-talks
+QA_theory-types
+Practice-smoke_CL
